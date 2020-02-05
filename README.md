@@ -6,4 +6,4 @@ Project is hosted on https://abhinavtembulkar.github.io/speakAloud/
 Instructions : Allow microphone access to your browser while opening the website.
 
 ## screenshots 
-![](images/screenshot.png)
+![](images/speaks.png)
